@@ -6,7 +6,7 @@
 
 #include <Windows.h>
 
-#include "adminFunction.h"
+#include "function.h"
 
 
 
